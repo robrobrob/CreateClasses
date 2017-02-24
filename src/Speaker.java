@@ -5,7 +5,7 @@ import java.util.Scanner;
  * @author: Robert
  * @version: 2/22/17.
  * @assign.ment: Create Classes
- * descrip.tion:
+ * descrip.tion: This program creates a speaker class. Speakers have different states and behaviors that can be gotten and set.
  */
 public class Speaker {
     boolean isOn;
